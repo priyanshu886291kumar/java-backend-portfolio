@@ -1,6 +1,22 @@
-# 🚀 Priyanshu Kumar — Java Backend Developer Portfolio (React.js + Vite + Tailwind CSS)
+# 🚀 Priyanshu Kumar — Java Backend Developer Portfolio
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-emerald?style=for-the-badge&logo=vercel)](https://java-backend-portfolio-five.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshu886291kumar/java-backend-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-kumar-048a37258/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/priyanshu79033_coder/)
+
+🌐 **Live Portfolio Link:** [https://java-backend-portfolio-five.vercel.app/](https://java-backend-portfolio-five.vercel.app/)
 
 A top-tier, modern **2026 Bento Grid developer portfolio** built with **React.js 18**, **Vite**, **Tailwind CSS**, and **Lucide React**.
+
+---
+
+## ✨ Features
+* ☕ **Java & Spring Boot Centric:** Highlighting enterprise API lifecycles, microservices, and PostgreSQL data architectures.
+* 📐 **Interactive System Architecture Blueprint:** 4-stage transaction flow for the flagship Airbnb Spring Boot Booking Engine.
+* 💻 **Interactive CLI Terminal Emulator:** Functional Unix-style terminal responding to commands (`whoami`, `skills`, `projects`, `experience`, `contact`, `help`).
+* 📊 **LeetCode & Problem-Solving Visualizer:** Highlighting 600+ solved DSA problems, Flipkart GRID finalist milestones, and JEE AIR.
+* ⚡ **Ultra-Fast Performance:** Built on Vite with responsive glassmorphism and cursor-tracking radial spotlights.
 
 ---
 
@@ -15,13 +31,12 @@ npm install
 ```bash
 npm run dev
 ```
-Open your browser at `http://localhost:3000` (or the URL shown in terminal).
+Open your browser at `http://localhost:3000`.
 
 ### 3. Build for Production
 ```bash
 npm run build
 ```
-The optimized production files will be inside the `dist/` folder.
 
 ---
 
@@ -38,29 +53,24 @@ portfolio-java-react/
     ├── App.jsx                # Main layout assembler
     ├── index.css              # Global styles & glassmorphism
     ├── data/
-    │   └── portfolioData.js   # 💡 EDIT ALL YOUR INFO, SKILLS & PROJECTS HERE!
+    │   └── portfolioData.js   # 💡 Central data file (Edit all info here!)
     └── components/
         ├── Navbar.jsx         # Sticky glassmorphism header
-        ├── HeroBento.jsx      # Bento Grid Hero + DSA stats card
+        ├── HeroBento.jsx      # Bento Grid Hero + DSA stats
         ├── SystemArchitecture.jsx # 4-step backend transaction pipeline
         ├── ProjectsSection.jsx # Category filter tabs (Java, Real-Time, AI)
         ├── InteractiveTerminal.jsx # Interactive Unix CLI console
         ├── ExperienceTimeline.jsx # MAQ Software internship details
-        ├── EducationCertifications.jsx # IIITG, schooling & certifications
+        ├── EducationCertifications.jsx # IIITG, schooling & credentials
         ├── ContactFooter.jsx  # Contact & social buttons
         └── Toast.jsx          # Copy-to-clipboard popup feedback
 ```
 
 ---
 
-## 🌐 1-Click Free Deployment
+## 📬 Contact
 
-### Deploy to Vercel:
-1. Push this folder to your GitHub repo.
-2. Go to [vercel.com](https://vercel.com) and click **"Add New Project"**.
-3. Select your repository and click **Deploy**.
-4. You will get a live URL: `https://priyanshu-java.vercel.app`
-
-### Deploy to Netlify:
-1. Run `npm run build`
-2. Drag and drop the generated `dist/` folder to [app.netlify.com/drop](https://app.netlify.com/drop).
+* **Email:** [priyanshu886291@gmail.com](mailto:priyanshu886291@gmail.com)
+* **LinkedIn:** [Priyanshu Kumar](https://www.linkedin.com/in/priyanshu-kumar-048a37258/)
+* **GitHub:** [@priyanshu886291kumar](https://github.com/priyanshu886291kumar)
+* **Phone:** +91 6202763514
