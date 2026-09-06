@@ -57,13 +57,13 @@ export default function ContactFooter() {
           <span>GitHub</span>
         </a>
         <a 
-          href={personal.leetcode} 
+          href={personal.codolio} 
           target="_blank" 
           rel="noopener noreferrer" 
           className="text-slate-400 hover:text-white flex items-center gap-1.5 transition"
         >
           <Code className="w-4 h-4 text-amber-400" />
-          <span>LeetCode (600+)</span>
+          <span>Codolio (LeetCode & GFG)</span>
         </a>
       </div>
 

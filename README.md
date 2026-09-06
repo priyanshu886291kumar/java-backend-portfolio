@@ -3,9 +3,10 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-emerald?style=for-the-badge&logo=vercel)](https://java-backend-portfolio-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshu886291kumar/java-backend-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-kumar-048a37258/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/priyanshu79033_coder/)
+[![Codolio](https://img.shields.io/badge/Codolio-LeetCode%20%2B%20GFG%20(600%2B)-FFA116?style=for-the-badge)](https://codolio.com/profile/priyanshu8862)
 
-🌐 **Live Portfolio Link:** [https://java-backend-portfolio-five.vercel.app/](https://java-backend-portfolio-five.vercel.app/)
+🌐 **Live Portfolio Link:** [https://java-backend-portfolio-five.vercel.app/](https://java-backend-portfolio-five.vercel.app/)  
+📊 **Unified DSA Profile (LeetCode & GFG):** [https://codolio.com/profile/priyanshu8862](https://codolio.com/profile/priyanshu8862)
 
 A top-tier, modern **2026 Bento Grid developer portfolio** built with **React.js 18**, **Vite**, **Tailwind CSS**, and **Lucide React**.
 
@@ -15,7 +16,7 @@ A top-tier, modern **2026 Bento Grid developer portfolio** built with **React.js
 * ☕ **Java & Spring Boot Centric:** Highlighting enterprise API lifecycles, microservices, and PostgreSQL data architectures.
 * 📐 **Interactive System Architecture Blueprint:** 4-stage transaction flow for the flagship Airbnb Spring Boot Booking Engine.
 * 💻 **Interactive CLI Terminal Emulator:** Functional Unix-style terminal responding to commands (`whoami`, `skills`, `projects`, `experience`, `contact`, `help`).
-* 📊 **LeetCode & Problem-Solving Visualizer:** Highlighting 600+ solved DSA problems, Flipkart GRID finalist milestones, and JEE AIR.
+* 📊 **Codolio Unified DSA Tracking:** Highlighting 600+ solved DSA problems across LeetCode & GeeksforGeeks, Flipkart GRID finalist milestones, and JEE AIR.
 * ⚡ **Ultra-Fast Performance:** Built on Vite with responsive glassmorphism and cursor-tracking radial spotlights.
 
 ---
@@ -56,7 +57,7 @@ portfolio-java-react/
     │   └── portfolioData.js   # 💡 Central data file (Edit all info here!)
     └── components/
         ├── Navbar.jsx         # Sticky glassmorphism header
-        ├── HeroBento.jsx      # Bento Grid Hero + DSA stats
+        ├── HeroBento.jsx      # Bento Grid Hero + Codolio stats
         ├── SystemArchitecture.jsx # 4-step backend transaction pipeline
         ├── ProjectsSection.jsx # Category filter tabs (Java, Real-Time, AI)
         ├── InteractiveTerminal.jsx # Interactive Unix CLI console
@@ -72,5 +73,6 @@ portfolio-java-react/
 
 * **Email:** [priyanshu886291@gmail.com](mailto:priyanshu886291@gmail.com)
 * **LinkedIn:** [Priyanshu Kumar](https://www.linkedin.com/in/priyanshu-kumar-048a37258/)
+* **Codolio:** [@priyanshu8862](https://codolio.com/profile/priyanshu8862)
 * **GitHub:** [@priyanshu886291kumar](https://github.com/priyanshu886291kumar)
 * **Phone:** +91 6202763514

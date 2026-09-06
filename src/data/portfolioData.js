@@ -8,8 +8,9 @@ export const portfolioData = {
     location: "India",
     github: "https://github.com/priyanshu886291kumar",
     linkedin: "https://www.linkedin.com/in/priyanshu-kumar-048a37258/",
+    codolio: "https://codolio.com/profile/priyanshu8862",
     leetcode: "https://leetcode.com/u/priyanshu79033_coder/",
-    bio: "Software Engineer with production experience at MAQ Software and Computer Science background at IIIT Guwahati. Specializing in Java, Spring Boot, Microservices, PostgreSQL, and Distributed Caching. Deep algorithmic foundation with 600+ DSA problems solved.",
+    bio: "Software Engineer with production experience at MAQ Software and Computer Science background at IIIT Guwahati. Specializing in Java, Spring Boot, Microservices, PostgreSQL, and Distributed Caching. Deep algorithmic foundation with 600+ DSA problems solved across LeetCode and GFG.",
   },
   stats: {
     dsaSolved: "600+",
@@ -23,7 +24,7 @@ export const portfolioData = {
     achievements: [
       {
         title: "600+ DSA Problems Solved",
-        desc: "Active across LeetCode & GeeksforGeeks with 100-Day Challenge badge.",
+        desc: "Unified 600+ problem solutions across LeetCode & GeeksforGeeks tracked on Codolio with 100-Day Challenge badge.",
         highlight: "600+ Solved",
       },
       {
