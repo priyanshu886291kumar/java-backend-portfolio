@@ -61,7 +61,7 @@ portfolio-java-react/
         ├── SystemArchitecture.jsx # 4-step backend transaction pipeline
         ├── ProjectsSection.jsx # Category filter tabs (Java, Real-Time, AI)
         ├── InteractiveTerminal.jsx # Interactive Unix CLI console
-        ├── ExperienceTimeline.jsx # MAQ Software internship details
+        ├── ExperienceTimeline.jsx # Bharatia SDE & MAQ Software experience details
         ├── EducationCertifications.jsx # IIITG, schooling & credentials
         ├── ContactFooter.jsx  # Contact & social buttons
         └── Toast.jsx          # Copy-to-clipboard popup feedback

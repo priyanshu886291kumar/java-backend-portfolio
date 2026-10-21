@@ -153,33 +153,35 @@ export default function HeroBento({ onCopy }) {
         <div 
           className="pointer-events-none absolute -inset-px opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           style={{
-            background: 'radial-gradient(350px circle at var(--mouse-x, 0px) var(--mouse-y, 0px), rgba(59, 130, 246, 0.12), transparent 80%)'
+            background: 'radial-gradient(350px circle at var(--mouse-x, 0px) var(--mouse-y, 0px), rgba(16, 185, 129, 0.12), transparent 80%)'
           }}
         />
 
         <div className="space-y-4 relative z-10">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-lg bg-blue-500/10 border border-blue-500/20 flex items-center justify-center text-blue-400">
+              <div className="w-8 h-8 rounded-lg bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center text-emerald-400">
                 <Briefcase className="w-4 h-4" />
               </div>
               <div>
-                <h3 className="text-white font-bold text-sm">Associate Software Engineer (Intern)</h3>
-                <p className="text-xs text-emerald-400 font-medium">MAQ Software • 6 Months (Jan 2026 – Jun 2026)</p>
+                <h3 className="text-white font-bold text-sm">Software Development Engineer</h3>
+                <p className="text-xs text-emerald-400 font-medium">Bharatia • Aug 2026 – Present (Current)</p>
               </div>
             </div>
-            <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-blue-500/10 text-blue-400 border border-blue-500/20">Production</span>
+            <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-semibold">Current Role</span>
           </div>
 
           <p className="text-xs text-slate-300 leading-relaxed">
-            Engineered enterprise web telemetry and logging integrations with <span className="text-white font-semibold">Azure Application Insights</span>. Authored complex <span className="text-emerald-400 font-mono">KQL (Kusto)</span> diagnostic queries to eliminate production observability blind spots.
+            Architecting modular multi-tenant REST APIs using <span className="text-white font-semibold">NestJS, TypeScript, and PostgreSQL (Supabase)</span> with Prisma ORM schemas, JWT RBAC security, and automated Jest test suites.
           </p>
 
           <div className="flex flex-wrap gap-1.5 pt-1">
-            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">Azure App Insights</span>
-            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">KQL</span>
-            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">JavaScript</span>
-            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">Dynamics 365</span>
+            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">NestJS</span>
+            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">TypeScript</span>
+            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">PostgreSQL</span>
+            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">Prisma ORM</span>
+            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">Supabase</span>
+            <span className="px-2 py-0.5 rounded-md bg-white/5 border border-white/5 text-[11px] font-mono text-slate-300">Jest</span>
           </div>
         </div>
       </div>

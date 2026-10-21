@@ -10,7 +10,7 @@ export const portfolioData = {
     linkedin: "https://www.linkedin.com/in/priyanshu-kumar-048a37258/",
     codolio: "https://codolio.com/profile/priyanshu8862",
     leetcode: "https://leetcode.com/u/priyanshu79033_coder/",
-    bio: "Software Engineer with production experience at MAQ Software and Computer Science background at IIIT Guwahati. Specializing in Java, Spring Boot, Microservices, PostgreSQL, and Distributed Caching. Deep algorithmic foundation with 600+ DSA problems solved across LeetCode and GFG.",
+    bio: "Software Development Engineer at Bharatia (Aug 2026 – Present) and ex-MAQ Software with Computer Science background at IIIT Guwahati. Specializing in Java, Spring Boot, NestJS, TypeScript, PostgreSQL (Supabase), Prisma ORM, Microservices, and Distributed Caching. Deep algorithmic foundation with 600+ DSA problems solved across LeetCode and GFG.",
   },
   stats: {
     dsaSolved: "600+",
@@ -41,9 +41,9 @@ export const portfolioData = {
   },
   skills: {
     languages: ["Java (Core & OOP)", "Python", "C / C++", "JavaScript", "TypeScript", "SQL"],
-    frameworks: ["Spring Boot", "Spring Security", "RESTful APIs", "FastAPI", "Node.js", "Express.js", "JWT & RBAC"],
-    databases: ["PostgreSQL", "MySQL", "Redis (Cache)", "MongoDB", "ACID Transactions"],
-    tools: ["Docker", "Git / GitHub", "IntelliJ IDEA", "Azure App Insights", "KQL", "Postman", "Render"],
+    frameworks: ["Spring Boot", "Spring Security", "NestJS", "RESTful APIs", "FastAPI", "Node.js", "Express.js", "JWT & RBAC"],
+    databases: ["PostgreSQL (Supabase)", "MySQL", "Redis (Cache)", "MongoDB", "Prisma ORM", "ACID Transactions"],
+    tools: ["Docker", "Git / GitHub", "IntelliJ IDEA", "Supabase", "Jest", "Swagger / OpenAPI", "Azure App Insights", "KQL", "Postman", "Render"],
   },
   projects: [
     {
@@ -91,6 +91,18 @@ export const portfolioData = {
     }
   ],
   experience: [
+    {
+      company: "Bharatia",
+      role: "Software Development Engineer",
+      duration: "Aug 2026 – Present",
+      bullets: [
+        "Scalable Multi-Tenant Architecture: Architected and developed modular REST APIs using NestJS, TypeScript, and PostgreSQL (Supabase), ensuring strict multi-tenant data isolation and clean domain boundaries.",
+        "Database Modeling & Data Integrity: Designed normalized relational schemas and migrations using Prisma ORM, implementing atomic transactions, composite indexing, and idempotent workflows for high data consistency.",
+        "Security & Fine-Grained Authorization: Implemented comprehensive authentication and access control systems using JWT, combining role-based (RBAC) and resource-level authorization to prevent privilege escalation and unauthorized data access.",
+        "Reliability, Testing & Quality: Built resilient error-handling pipelines with strict input validation, maintaining high test coverage and zero regression through automated unit test suites using Jest and Swagger/OpenAPI documentation."
+      ],
+      tags: ["TypeScript", "NestJS", "PostgreSQL", "Prisma", "Supabase", "Jest", "REST APIs", "Git"],
+    },
     {
       company: "MAQ Software",
       role: "Associate Software Engineer (Intern)",

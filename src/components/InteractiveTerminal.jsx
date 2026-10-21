@@ -15,7 +15,7 @@ export default function InteractiveTerminal() {
 
   const commands = {
     help: 'Available commands: whoami, skills, projects, experience, education, contact, clear',
-    whoami: `${personal.name} — ${personal.title} (IIIT Guwahati, ex-MAQ Software). Specialized in Java & Spring Boot with 600+ DSA solved.`,
+    whoami: `${personal.name} — ${personal.title} (IIIT Guwahati, SDE @ Bharatia, ex-MAQ Software). Specialized in Java & Spring Boot with 600+ DSA solved.`,
     skills: `Languages: ${skills.languages.join(', ')}\nFrameworks: ${skills.frameworks.join(', ')}\nDatabases: ${skills.databases.join(', ')}\nTools: ${skills.tools.join(', ')}`,
     projects: projects.map((p, i) => `${i + 1}. ${p.title} (${p.tags.slice(0, 3).join(', ')})`).join('\n'),
     experience: experience.map(e => `${e.company} — ${e.role} (${e.duration})\n  • ${e.bullets[0]}`).join('\n\n'),
